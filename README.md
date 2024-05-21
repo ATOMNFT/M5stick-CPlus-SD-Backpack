@@ -19,9 +19,12 @@ It's a very easy build and requires a few parts and a soldering iron. Below you'
 <br>
 
 ## Instructions
-<b>Start off by dry fitting the sd breakout and the gpio pins to the pcb of your choice but make sure there is enough room on the prototype pcb to fit all the pins from the sd breakout and gpio pins on the other end. <br> Once you have the sd breakout and gpio pins fitted and everything looks good, go ahead and start soldering the sd breakout to the pcb. Then move on to the gpio pins on the other end. <br>
-Once all that is solder on you can start on the wires and their paths. This part is up to you how you you want to run the wires but they must be wired like in the diagrams. 
-</b>
+<b>Start off by dry fitting the sd breakout and the gpio pins to the pcb of your choice but make sure there is enough room on the prototype pcb to fit all the pins from the sd breakout and gpio pins on the other end. <br> 
+Once you have the sd breakout and gpio pins fitted and everything looks good, go ahead and start soldering the sd breakout to the pcb. Then move on to the gpio pins on the other end. <br>
+Once all that is solder on you can start on the wires and their paths. This part is up to you how you you want to run the wires but they must be wired like in the wire diagrams. <br>
+Use the images below as reference. Now, after you have completed soldering all the wires you can trim the remaining pcb around the sd breakout and gpio pins. <br>
+I recommend scoring the pcb and snapping it on the score as this stuff is not good to breath. This trimming part is only need if your board looks like the one in the pic and has extra on the sides. <br>
+You will want to trim it if you want to use the printed case. </b>
 
 ## Pics for guidance  
 ![2](Images/2.jpg)![4](Images/4.jpg)![6](Images/6.jpg)

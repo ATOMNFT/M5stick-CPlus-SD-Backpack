@@ -26,16 +26,16 @@ Use the images below as reference. Now, after you have completed soldering all t
 I recommend scoring the pcb and snapping it on the score as this stuff is not good to breath. This trimming part is only need if your board looks like the one in the pic and has extra on the sides. <br>
 You will want to trim it if you want to use the printed case. </b>
 
-## Pics for guidance  
-![2](Images/2.jpg)![4](Images/4.jpg)![6](Images/6.jpg)
+
 
 <br>
 
-## Wiring Diagram/s
+## Pics for guidance & Wiring Diagram/s
 <details>
 <summary>⚡️ Wiring Diagram/s</summary>
-
 ![wiringdiagram1](Images/wiringdiagram1.jpg)![wiringdiagram2](Images/wiringdiagram2.png)
+<summary>Pics for guidance</summary>
+![2](Images/2.jpg)![4](Images/4.jpg)![6](Images/6.jpg)
 
 </details>
 

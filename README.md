@@ -7,7 +7,7 @@
 It's a very easy build and requires a few parts and a soldering iron. Below you'll find directions along with a few images to help you with building this "SD Backpack" as I call it.</b> 
 <br>
 
-<b>I have also designed a case that's a simple print on any 3d printer and takes around 16 mins to print. The STL file can be located <a href="">HERE</a>.</b>
+<b>I have also designed a case that's a simple print on any 3d printer and takes around 16 mins to print. The STL file can be located <a href="https://github.com/ATOMNFT/M5stick-CPlus-SD-Backpack/blob/main/STL%20File/M5stick%20SD-Backpack%20Case%20V1.stl">HERE</a>.</b>
 
 ### Required Items
 - Prototyping PCB.

@@ -32,20 +32,24 @@ You will want to trim it if you want to use the printed case. </b>
 
 ## Pics for guidance & Wiring Diagram/s
 <details>
-<summary>⚡️ Wiring Diagram/s</summary>
+<summary>📷 Pics for guidance 📷</summary>
 
-![wiringdiagram1](Images/wiringdiagram1.jpg)![wiringdiagram2](Images/wiringdiagram2.png)
+![2](Images/2.jpg)![4](Images/4.jpg)![6](Images/6.jpg)
 
 </details>
 
 <br />
 
 <details>
-<summary>Pics for guidance</summary>
+<summary>⚡️ Wiring Diagram/s ⚡️</summary>
 
-![2](Images/2.jpg)![4](Images/4.jpg)![6](Images/6.jpg)
+![wiringdiagram1](Images/wiringdiagram1.jpg)![wiringdiagram2](Images/wiringdiagram2.png)
 
 </details>
+
+
+
+
 
 
 

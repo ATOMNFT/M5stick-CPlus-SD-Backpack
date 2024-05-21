@@ -19,7 +19,7 @@ It's a very easy build and requires a few parts and a soldering iron. Below you'
 <br>
 
 ## Instructions
-<b>Start off by dry fitting the sd breakout and the gpio pins to the pcb of your choice but make sure there is enough room on the prototype pcb to fit all the pins from the sd breakout and gpio pins on the other end. Once you have the sd breakout and gpio pins fitted and everything looks good, go ahead and start soldering the sd breakout to the pcb. Then move on to the gpio pins on the other end. <br>
+<b>Start off by dry fitting the sd breakout and the gpio pins to the pcb of your choice but make sure there is enough room on the prototype pcb to fit all the pins from the sd breakout and gpio pins on the other end. <br> Once you have the sd breakout and gpio pins fitted and everything looks good, go ahead and start soldering the sd breakout to the pcb. Then move on to the gpio pins on the other end. <br>
 Once all that is solder on you can start on the wires and their paths. This part is up to you how you you want to run the wires but they must be wired like in the diagrams. 
 </b>
 

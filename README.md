@@ -47,7 +47,7 @@ The image below shows where to cut the piece you will need. (+) goes to 3v3 pin 
 <details>
 <summary>📷 Pics for guidance 📷</summary>
 
-![2](Images/2.jpg)![4](Images/4.jpg)![6](Images/6.jpg)![9](Images/9.jpg)
+![2](Images/2.jpg)![4](Images/4.jpg)![6](Images/6.jpg)![9](Images/9.jpg)![10](Images/10.jpg)
 
 </details>
 

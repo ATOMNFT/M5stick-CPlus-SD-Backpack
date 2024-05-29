@@ -32,7 +32,7 @@ You will want to trim it if you want to use the printed case. </b>
 
 > [!NOTE]
 > LED installation is easy and only requires 3v3 and gnd.<br>
-The image below shows where to cut the piece you will need. (+) goes to 3v3 and gnd goes to the color of your choice.
+The image below shows where to cut the piece you will need. (+) goes to 3v3 pin and gnd pin goes to the color of your choice.
 
 ![4](Images/led.jpg)
 

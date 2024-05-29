@@ -29,7 +29,7 @@ Use the images below as reference. Now, after you have completed soldering all t
 I recommend scoring the pcb and snapping it on the score as this stuff is not good to breath. This trimming part is only need if your board looks like the one in the pic and has extra on the sides. <br>
 You will want to trim it if you want to use the printed case. </b>
 
-<div style="background-color:red;">
+<div style="background-color: #ece8f8;">
 
 > LED installation is easy and only requires 3v and gnd.
 

@@ -16,7 +16,7 @@ It's a very easy build and requires a few parts and a soldering iron. Below you'
 - Prototyping PCB.
 - Micro SD breakout board. (Try to locate the one used in this tut as the larger ones require more connections)
 - Small wire. (28awg should do)
-- LED (this is extra and not needed. But if you use a LED try to find one like <a href="https://monsterilluminessence.com/smartlighting/basics/multi-color-led-light-strip-basics/">THIS</a>)
+- LED. This is extra and not needed. But if you use a LED try to find one like <a href="https://monsterilluminessence.com/smartlighting/basics/multi-color-led-light-strip-basics/">THIS</a>
 - Soldering iron & solder.
 
 <br>

@@ -30,9 +30,7 @@ I recommend scoring the pcb and snapping it on the score as this stuff is not go
 You will want to trim it if you want to use the printed case. </b>
 
 <div style="background-color:green;">
-
 > LED installation is easy and only requires 3v and gnd.
-
 </div>
 
 

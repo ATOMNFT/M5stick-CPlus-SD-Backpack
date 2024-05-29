@@ -32,6 +32,7 @@ You will want to trim it if you want to use the printed case. </b>
 
 > [!NOTE]
 > LED installation is easy and only requires 3v and gnd.
+![4](Images/led.jpg)
 
 
 

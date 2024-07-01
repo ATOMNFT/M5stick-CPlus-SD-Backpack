@@ -7,9 +7,9 @@
   
 ---
 
-<p align="center">
-  🌟 # M5stick CPlus & CPlus2 SD Backpack 🌟
-</p>
+## <p align="center">
+   🌟 M5stick CPlus & CPlus2 SD Backpack 🌟
+   </p>
 
 <b>I've looked around and found very few sd attachments for the  <a href="https://shop.m5stack.com/products/m5stickc-plus-esp32-pico-mini-iot-development-kit">"M5stickC Plus & C Plus2"</a>. So I have built a very simeple one for myself and thought I'd share with the rest of the M5 users.
 It's a very easy build and requires a few parts and a soldering iron. Below you'll find directions along with a few images to help you with building this "SD Backpack" as I call it.</b> 

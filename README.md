@@ -7,7 +7,7 @@
   
 ---
 
-<p align="center">
+
   ## M5stick CPlus & CPlus2 SD Backpack
 </p>
 

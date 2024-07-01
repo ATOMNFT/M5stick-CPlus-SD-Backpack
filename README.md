@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-<h2> 🌟 M5stick CPlus & CPlus2 SD Backpack 🌟 </h2> 
+ 🌟 <h2>M5stick CPlus & CPlus2 SD Backpack</h2>  🌟 
 </p>
 
 <b>I've looked around and found very few sd attachments for the  <a href="https://shop.m5stack.com/products/m5stickc-plus-esp32-pico-mini-iot-development-kit">"M5stickC Plus & C Plus2"</a>. So I have built a very simeple one for myself and thought I'd share with the rest of the M5 users.
@@ -46,9 +46,6 @@ The image below shows where to cut the piece you will need. (+) goes to 3v3 pin 
 ![4](Images/led.jpg)
 
 
-
-
-
 <br>
 
 ## Pics for guidance & Wiring Diagram/s
@@ -70,11 +67,4 @@ The image below shows where to cut the piece you will need. (+) goes to 3v3 pin 
 
 
 
-
-
-
-
-
-
 <br>
-
